@@ -2,8 +2,8 @@ import math
 def main():
     #escribe tu código abajo de esta línea
     pass
-    a = float(input('Introduce el area a pintar en metros: '))
-    b = float(input('¿Cuantos metros puede pintar cada litro? '))
+    a = float(input('Area a pintar en metros: '))
+    b = float(input('Rendimiento (m2/l): '))
 
     l = a / b
 
