@@ -10,7 +10,7 @@ def main():
 
     print("Número: "+str(a))
     print("Decimales a mostrar: "+str(b))
-    print("Razón aurea: "+str(round(ra,b)))
+    print("Razón áurea: "+str(round(ra,b)))
 
 if __name__ == '__main__':
     main()

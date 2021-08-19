@@ -7,7 +7,7 @@ def main():
 
     l = a / b
 
-    print("NArea a pintar en metros: "+str(a))
+    print("Area a pintar en metros: "+str(a))
     print("Rendimiento (m2/l): "+str(b))
     print("Litros a comprar: "+str(math.ceil(l)))
 
